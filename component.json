@@ -1,0 +1,14 @@
+{
+  "name": "array-exclude",
+  "repo": "JayceTDE/array-exclude",
+  "description": "Copy an array without the first n and last n indexes",
+  "version": "0.0.1",
+  "keywords": ["exclude", "without", "array"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

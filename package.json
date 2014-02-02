@@ -1,6 +1,6 @@
 {
   "name": "array-exclude",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Copy an array without the first n and last n indexes",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/JayceTDE/array-exclude.git"
   },
-  "keywords": [],
+  "keywords": ["exclude", "without", "array"],
   "dependencies": {},
   "devDependencies": {
     "mocha": "*",
